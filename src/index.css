@@ -1,0 +1,14 @@
+body {
+  margin: 0.5;
+  
+}
+
+.scroll{
+  overflow-y: scroll;
+}
+
+.output-screen{
+  background-color: #f1f5f8;
+  width: 60%;
+  
+}
